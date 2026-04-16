@@ -9,7 +9,7 @@ TerraLuna is a metal moon in orbit around the gas giant Typhon. Seventy years ag
 ## The World
 
 **TerraLuna** - A metallic asteroid moon with:
-- No atmosphere (hard vacuum outside settlements)
+- Thin, hostile atmosphere (breathable but harsh outside settlements — cold, ionized, metallic)
 - Gravity anomalies from orbital decay
 - Temperatures averaging -40°C to -60°C
 - Exposed meteoritic iron with Widmanstätten patterns

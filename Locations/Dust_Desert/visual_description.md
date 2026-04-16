@@ -16,7 +16,7 @@ Vast metallic wasteland covering much of TerraLuna's surface. NOT boring flat sa
 - Black void of space overhead
 - Visible stars even during "day"
 - Looming gas giant on horizon (parent planet)
-- No atmosphere to scatter light
+- Thin atmosphere scatters almost no light
 
 **Atmosphere**:
 - Alien and hostile environment

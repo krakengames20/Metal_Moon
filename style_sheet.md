@@ -54,11 +54,11 @@ Each character and location has signature accent colors that distinguish them:
 
 ### Lighting Approach
 
-**No Atmospheric Diffusion:**
-TerraLuna has no atmosphere to scatter light, resulting in:
+**Minimal Atmospheric Diffusion:**
+TerraLuna's thin atmosphere scatters almost no light, resulting in:
 - Stark, hard-edged shadows
-- No gradient between light and dark
-- Black sky even during "day"
+- Near-zero gradient between light and dark
+- Near-black sky even during "day"
 - Stars visible always
 - Extreme contrast between illuminated and shadowed areas
 
@@ -160,7 +160,7 @@ TerraLuna has no atmosphere to scatter light, resulting in:
 - Gravity anomalies: Objects suspended impossibly, dust swirling in wrong directions
 - Dust storms: Metallic particles creating silver-gray veils
 - Cold: Frost patterns on metal, breath clouds
-- Vacuum exposure: No wind-blown hair, no atmospheric haze
+- Harsh surface exposure: Hair and fabric buffeted by metallic wind, no atmospheric haze
 
 ### Mood and Atmosphere
 
@@ -188,7 +188,7 @@ TerraLuna has no atmosphere to scatter light, resulting in:
 1. **Always maintain strong silhouettes** - recognize characters from outline
 2. **Texture serves story** - every scrape shows TerraLuna's harsh environment
 3. **Respect the palette** - industrial grays + specific accents only
-4. **No atmosphere** - remember TerraLuna has no air, lighting is stark
+4. **Thin atmosphere** - TerraLuna's air is sparse and hostile, lighting is stark with minimal scattering
 5. **Metal dominates** - this is a metal moon, surfaces are metallic not organic
 6. **Sgraffito is signature** - the scraped, layered technique defines the aesthetic
 
@@ -217,7 +217,7 @@ This style guide defines the visual identity of Metal Moon. When generating new 
 1. Reference the entity's specific color accents
 2. Apply appropriate rendering mode (reference vs. dramatic for characters, viewpoint template for locations)
 3. Maintain sgraffito technique consistency
-4. Respect the harsh, no-atmosphere lighting
+4. Respect the harsh, thin-atmosphere lighting
 5. Keep backgrounds appropriate to entity type
 6. Ensure strong silhouettes and intentional texture
 7. File outputs with proper naming: `{entity}_{mode}_{style}_{composition}_{index}.jpg`

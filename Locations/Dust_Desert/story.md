@@ -14,7 +14,7 @@
 - **Color**: Gray-silver with rust-red patches (iron oxide concentrations)
 - **Topography**: Relatively flat with frequent crater impacts creating irregular elevation changes
 - **Visibility**: Varies wildly—100+ ft in clear conditions, 10 ft during dust storms
-- **Horizon**: Black sky meets silver ground in knife-edge line (no atmosphere diffusion)
+- **Horizon**: Black sky meets silver ground in near knife-edge line (thin atmosphere, minimal diffusion)
 
 **Key Features**:
 - **Crater Fields**: Impact sites from meteor debris belt, ranging from 10 ft to 1000 ft diameter
@@ -24,10 +24,10 @@
 - **Rustie Nests**: Metallic mounds where insect colonies burrow
 
 **Sky**:
-- Black void with visible stars (no atmosphere to scatter light)
+- Near-black sky with visible stars (thin atmosphere scatters almost no light)
 - TerraLuna's parent gas giant looms large on horizon (variable position)
 - Meteor streaks common (high-activity debris belt)
-- No clouds, no weather patterns (dust is ground-level only)
+- No clouds in the conventional sense; thin atmosphere means weather is ground-level dust and wind only
 
 **Climate**:
 - **Temperature**: -40°C average, colder at night (-60°C)
@@ -356,7 +356,7 @@
 ## DESCRIPTIVE READ-ALOUDS
 
 **First Impression**:
-> "The airlock opens. Beyond lies TerraLuna's true face—a silver-dust wasteland stretching to black infinity. The cold hits immediately, stealing breath. Wind carries metallic particles that sting exposed skin. Above, the gas giant Typhon looms impossibly large, swirling storms visible in its atmosphere. No sun. No clouds. No life. Just metal, dust, and void. New-Rhode's lights fade behind you. You are alone."
+> "The outer gate opens. Beyond lies TerraLuna's true face—a silver-dust wasteland stretching to black infinity. The cold hits immediately, biting through clothing. Wind carries metallic particles that sting exposed skin. Above, the gas giant Typhon looms impossibly large, swirling storms visible in its atmosphere. No sun. No clouds. Almost no life. Just metal, dust, and silence. New-Rhode's lights fade behind you. You are alone."
 
 **Dust Storm**:
 > "The horizon darkens. Not black—metallic gray, a wall of dust advancing at terrifying speed. Wind shifts, screaming across the plain. Then it hits. Visibility drops to arm's length. Dust particles scour exposed surfaces. Your breathers filter frantically. The world becomes a whirling chaos of gray, wind, and cold. This is how TerraLuna kills."
