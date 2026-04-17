@@ -1,4 +1,4 @@
-# Metal Moon - Visual Style Guide
+﻿# Metal Moon - Visual Style Guide
 
 ## Core Art Style: Sgraffito Industrial Expressionism
 
@@ -29,12 +29,12 @@
 Each character and location has signature accent colors that distinguish them:
 
 #### Characters:
-- **Alastair Redhand**: Dried Blood Red and Rust Orange
+- **Alastair**: Dried Blood Red and Rust Orange
 - **Liliane FoxKilo**: Rhodium Silver and Cold Blue
-- **Kess Brightshield**: Deep Cobalt Blue and Steel Gray
+- **Kess BravoSierra**: Deep Cobalt Blue and Steel Gray
 - **Elder Kora Dustborn**: Desert Sand and Oxidized Copper
-- **Tarus Blackforge**: Industrial Iron and Forge Orange
-- **Syl Voidwalker**: Violet and Silver Shimmer
+- **Tarus**: Industrial Iron and Forge Orange
+- **Alnico**: Violet and Silver Shimmer
 
 #### Locations:
 - **The Scar**: Amber Olivine and Rust Brown
@@ -49,7 +49,7 @@ Each character and location has signature accent colors that distinguish them:
 - Chipped paint (irregular edges exposing metal beneath)
 - Crystalline fractures (geometric break patterns)
 - Oxidized surfaces (rust blooms, verdigris)
-- Widmanstätten patterns (cross-hatched meteoritic metal etching)
+- WidmanstÃ¤tten patterns (cross-hatched meteoritic metal etching)
 - Pallasite olivine (amber crystalline inclusions)
 
 ### Lighting Approach
@@ -71,7 +71,7 @@ TerraLuna's thin atmosphere scatters almost no light, resulting in:
 ### Character-Specific Rendering
 
 #### Reference Images (Clean Base)
-**Purpose**: Derivatives, VTT tokens, character identification
+Reference images are clean bases for derivatives, VTT tokens, and character identification.
 **Treatment:**
 - Softer sgraffito treatment - texture present but not obscuring
 - Even lighting reveals facial details, scars, expressions clearly
@@ -81,7 +81,7 @@ TerraLuna's thin atmosphere scatters almost no light, resulting in:
 - Features clearly readable for easy identification
 
 #### Dramatic Images (Full Style)
-**Purpose**: Publication, atmospheric storytelling, emotional impact
+Dramatic images carry publication-ready atmosphere and emotional impact.
 **Treatment:**
 - Full aggressive sgraffito technique
 - Dramatic lighting with deep shadows
@@ -93,7 +93,7 @@ TerraLuna's thin atmosphere scatters almost no light, resulting in:
 ### Location-Specific Rendering
 
 #### Worm's Eye View
-**Purpose**: Scene entry, establishing shots, convey scale and oppression
+Worm's-eye views are used for scene entry and scale-heavy establishing shots.
 **Camera:**
 - Extreme low-angle shot looking upward
 - 14mm ultra-wide angle lens effect
@@ -106,7 +106,7 @@ TerraLuna's thin atmosphere scatters almost no light, resulting in:
 - Deep depth of field maintaining sharpness throughout
 
 #### Cinematic View
-**Purpose**: Atmospheric establishing shots, narrative context
+Cinematic views emphasize atmosphere and narrative context.
 **Camera:**
 - Eye-level or slightly elevated
 - 35mm standard lens (natural human perspective)
@@ -119,7 +119,7 @@ TerraLuna's thin atmosphere scatters almost no light, resulting in:
 - Emphasize mood over technical accuracy
 
 #### Tactical View
-**Purpose**: Battle maps, VTT maps, tactical planning
+Tactical views prioritize map readability and planning clarity.
 **Camera:**
 - Top-down or high isometric angle
 - 85mm lens for compression and clarity
@@ -135,7 +135,7 @@ TerraLuna's thin atmosphere scatters almost no light, resulting in:
 
 #### Characters:
 - Oxidized meteoric iron surface
-- Subtle geometric Widmanstätten pattern etching
+- Subtle geometric WidmanstÃ¤tten pattern etching
 - Ambient warm glow from distant pallasite olivine clusters (golden-amber light)
 - Dark, atmospheric
 - Background does NOT obscure character
@@ -151,7 +151,7 @@ TerraLuna's thin atmosphere scatters almost no light, resulting in:
 ### Special Visual Elements
 
 **Metal Moon Geology:**
-- Widmanstätten patterns: Cross-hatched octahedral crystal structure visible in meteoritic iron
+- WidmanstÃ¤tten patterns: Cross-hatched octahedral crystal structure visible in meteoritic iron
 - Pallasite olivine: Amber-green crystalline inclusions in iron matrix
 - Rhodium deposits: Silver-white metallic sheen (valuable, status symbol)
 - Rust blooms: Iron oxide creating orange-brown surface discoloration
@@ -202,7 +202,7 @@ TerraLuna's thin atmosphere scatters almost no light, resulting in:
 - Brutalist architecture
 
 **Setting:**
-- Meteorite cross-sections (Widmanstätten patterns)
+- Meteorite cross-sections (WidmanstÃ¤tten patterns)
 - Industrial machinery and metalwork
 - Deep space imagery (harsh lighting, stark contrast)
 - Mining and excavation environments
@@ -210,17 +210,3 @@ TerraLuna's thin atmosphere scatters almost no light, resulting in:
 
 ---
 
-## Usage Notes
-
-This style guide defines the visual identity of Metal Moon. When generating new images:
-
-1. Reference the entity's specific color accents
-2. Apply appropriate rendering mode (reference vs. dramatic for characters, viewpoint template for locations)
-3. Maintain sgraffito technique consistency
-4. Respect the harsh, thin-atmosphere lighting
-5. Keep backgrounds appropriate to entity type
-6. Ensure strong silhouettes and intentional texture
-7. File outputs with proper naming: `{entity}_{mode}_{style}_{composition}_{index}.jpg`
-
-Generated: November 2024
-For: Metal Moon tabletop RPG campaign

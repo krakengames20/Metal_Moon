@@ -1,4 +1,4 @@
-# Tarus Blackforge - Visual Description
+﻿# Tarus - Visual Description
 
 ## Physical Appearance
 
@@ -30,3 +30,4 @@
 ## Color Accent for Artwork
 
 **Industrial Iron and Forge Orange**
+

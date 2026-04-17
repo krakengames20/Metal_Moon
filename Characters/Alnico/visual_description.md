@@ -1,4 +1,4 @@
-# Syl Voidwalker - Visual Description
+﻿# Alnico - Visual Description
 
 ## Physical Appearance
 
@@ -32,3 +32,4 @@
 ## Color Accent for Artwork
 
 **Violet and Silver Shimmer**
+

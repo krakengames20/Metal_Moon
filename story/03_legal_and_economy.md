@@ -1,29 +1,29 @@
-# 3 — LEGAL FRAMEWORK & ECONOMY
+﻿# 3 - Legal Framework and Economy
 
-## Legal Framework
+## Charter Law
 
-The city-states of TerraLuna do not have a formal justice system in the traditional sense. There are no courts, no judges, no lawyers.
+There is no neutral court culture in the modern-Earth sense.
+Law is charter law: policy enforcement driven by city governance and Deployed Admin authority.
 
-Instead, each city-state is governed by its **Settlement Charter** — a signed founding document agreed upon by the original expedition members. Infractions are described as **"breaking the charter"**, and enforcement falls to the Deployed Admins.
+Interpretation is political. Record access is controlled.
 
-Penalties and resolutions are interpreted through the charter's text, community consensus, and the authority of the Governor and Council. This makes legal outcomes inherently political. There is no appeal to a neutral third party.
+## Corporate Hazard Model
 
----
+TerraLuna is run as a commercial hazard environment.
 
-## Economy
+Most workers sign liability waivers and risk discharge agreements before dangerous assignments.
+At the governance level, fatalities are treated as acceptable operational loss unless incidents scale up enough to threaten production continuity.
 
-### Resource Scarcity vs. Industrial Abundance
-Precious metals are abundant. Water, food, and energy are scarce and tightly rationed.
+This is why extreme conditions can persist without systemic reform.
 
-### Tax Structure
-There is a high tax levied on:
-- **Number of children** per household
-- **Resource consumption**: electricity, light, water, non-efficient food sources
+## Economic Core
 
-This taxation system was introduced to manage scarcity, but it has also become a tool of social control and inequality. Wealthier guild members can absorb these costs; lower-ranking citizens cannot.
+The economy is metal-first.
+- extraction quotas drive policy
+- ration systems control water, air processing, and power
+- transport windows and refinery uptime matter more than civic comfort
 
-### Mining Monopoly
-The Miners' Guild controls the supply and pricing of all extracted ores. Their power to restrict supply — or flood the market — gives them leverage over every other guild and over city governance itself. No significant construction, manufacturing, or infrastructure project can proceed without their cooperation.
+## Information as Infrastructure
 
-### The Founders' Wells
-Water infrastructure established during the original colonization. Access to these wells is considered a basic right under most charters, though their maintenance is perpetually underfunded and politically contested.
+Archive access, incident reports, and historical records are economic assets.
+Who controls records controls legal narrative, compensation outcomes, and political legitimacy.

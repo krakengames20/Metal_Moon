@@ -1,4 +1,4 @@
-# Kess Brightshield - Visual Description
+﻿# Kess BravoSierra - Visual Description
 
 ## Physical Appearance
 
@@ -31,3 +31,4 @@
 ## Color Accent for Artwork
 
 **Deep Cobalt Blue and Steel Gray**
+
