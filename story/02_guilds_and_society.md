@@ -26,9 +26,9 @@ Pod-named citizens remain underrepresented in top offices. Liliane's rise is not
 
 ## Shadow Networks
 
-Rumor and partial evidence point to a legacy-family influence bloc often called the **Knights of Rhodes (KOR)**.
+Rumor and partial evidence point to a legacy-group of administrators bloc that is called KOR. It will be then found to mean the **Knights of Rhodes (KOR)**. Which is nothing but the group that decided FOR the lottery to criogenize the children.
 
-The working suspicion is that this network steers candidate pipelines, archive access, and key appointments while preserving plausible deniability.
+The working suspicion is that this network steers policy still and also vows to keep the events of the lottery quiet, presumable to maintain the peace and fragile equilibrium and balance of the colony. In the past, they archived access, hid evidence, and made key appointments while preserving plausible deniability.
 
 ## Everyday Culture
 

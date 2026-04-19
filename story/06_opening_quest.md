@@ -2,7 +2,7 @@
 
 After the assassination attempt, a cross-guild team is assembled to track Alastair into the desert and bring him back.
 
-The stated objective is to locate him, return him alive if possible, and secure any documents or recordings in his possession.
+The stated objective is to locate him, return him alive if possible, and understand the 
 
 The pursuit becomes more than a manhunt. Alastair is both attacker and witness, and his evidence points to deliberate manipulation of founder-era history and continued secrecy by high-clearance admins.
 
