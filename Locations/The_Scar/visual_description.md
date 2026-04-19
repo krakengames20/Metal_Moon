@@ -1,4 +1,4 @@
-# The Scar - Visual Description
+﻿# The Scar - Visual Description
 
 ## Overview
 
@@ -6,10 +6,10 @@ Massive canyon carved through TerraLuna's metal crust. A geological marvel and r
 
 ## Visual Elements
 
-**Scale**: Monumental - cliffs dwarf human figures
+**Scale**: Monumental; cliffs dwarf human figures
 
 **Cliff Walls**:
-- Towering metallic walls showing geometric Widmanstätten patterns
+- Towering metallic walls showing geometric Widmanstatten-like patterns
 - Cross-hatched metal etching visible throughout
 - Ancient meteoritic iron structure exposed
 

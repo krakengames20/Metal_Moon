@@ -1,33 +1,33 @@
-# Dust Desert - Visual Description
+﻿# Dust Desert - Visual Description
 
 ## Overview
 
-Vast metallic wasteland covering much of TerraLuna's surface. NOT boring flat sand - features dramatic vertical elements and exotic formations.
+Vast metallic badlands covering much of TerraLuna's surface, with dramatic vertical formations and high-atmosphere haze.
 
 ## Visual Elements
 
 **Terrain**:
-- Fine metallic dust covers hard substrate
-- Exotic formations rise from desert floor
-- Vertical dramatic features (spires, ridges, hoodoos)
-- Crystalline outcroppings and metal deposits
+- Fine metallic dust over hard substrate
+- Spires, ridges, and jagged uplift features
+- Crystalline outcroppings and exposed ore veins
+- Erosion channels carved by acidic rain runoff
 
 **Sky**:
-- Black void of space overhead
-- Visible stars even during "day"
-- Looming gas giant on horizon (parent planet)
-- Thin atmosphere scatters almost no light
+- Thick humid cloud bands and sulfuric haze
+- Typhon visible through shifting breaks in cloud cover
+- Diffuse cold daylight, not a clear vacuum-black sky
+- Steam and dust plumes near geothermal vents
 
 **Atmosphere**:
-- Alien and hostile environment
-- Beautiful but deadly
-- Sense of exposure and vulnerability
-- Metallic shimmer to dust particles
+- Alien and hostile despite breathable air
+- Heavy humidity and metallic odor
+- Beautiful but operationally dangerous
+- Constant sense of exposure and navigational uncertainty
 
 ## Special Features
 
-NOT Earth-like sand dunes. Think metallic badlands with sharp edges, crystalline formations, and otherworldly geology.
+Not Earth-like dunes. Think metallic badlands, vapor-heavy air, corrosive weathering, and severe traversal hazards.
 
 ## Color Accent for Artwork
 
-**Metallic Silver and Rust Red**
+**Oxidized Copper, Wet Steel, and Sulfur Gray**

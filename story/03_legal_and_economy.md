@@ -27,3 +27,15 @@ The economy is metal-first.
 
 Archive access, incident reports, and historical records are economic assets.
 Who controls records controls legal narrative, compensation outcomes, and political legitimacy.
+
+## Classified Governance Layer
+
+A narrow tier of senior admins can access restricted founder-era records.
+
+This creates a legal asymmetry: decision-makers can act on information the public cannot review, while claiming charter compliance.
+
+## Shadow Governance Risk
+
+The suspected Knights of Rhodes (KOR) network may be exploiting this classified layer.
+
+If true, election outcomes and legal enforcement can be shaped indirectly without visible charter violations.

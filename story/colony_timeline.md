@@ -29,12 +29,22 @@ Note: TerraLuna chronology below uses relative colony years (CY) because multipl
 - Pod-named citizens are reintroduced into city life under stigma.
 - Their social mobility remains constrained by archive-era prejudice.
 
+## Legacy Network Consolidation (date uncertain)
+- A founding-family influence bloc persists across generations.
+- In modern accounts it is often called the Knights of Rhodes (KOR).
+- The network is suspected of shaping records, candidate pipelines, and key administrative appointments.
+
 ## Recent Political Shift
 - Liliane FoxKilo (pod ID FK382 lineage) rises through administration.
-- She becomes elected head of New-Rhode.
+- She becomes elected head of New-Rhode and council chairwoman.
+- Debate continues over whether her rise was a genuine political breakthrough, a managed concession, or both.
 
 ## Present Day Crisis
 - Alastair uncovers evidence challenging official founder history.
+- He concludes that archive suppression is still active among high-clearance admins.
 - During a public address, he attempts to assassinate Liliane.
 - Cross-guild pursuit begins, and the colony enters narrative and political rupture.
 
+## Current External Pressure
+- A newly arrived colony ship reaches TerraLuna orbit.
+- Existing city-states prepare for contract competition, claims disputes, and potential alliance shifts.

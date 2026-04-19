@@ -48,11 +48,18 @@ Archive control shapes:
 
 This made historical rewriting both possible and durable.
 
+## Legacy Family Continuity
+
+A suspected influence network, the **Knights of Rhodes (KOR)**, appears to connect founding-family interests to present-day governance outcomes.
+
+Common claims include election steering, selective archive access, and policy shaping through intermediaries rather than direct command.
+
 ## Current Strategic Friction
 
-The present crisis combines three pressures:
+The present crisis combines four pressures:
 - legitimacy risk (buried founder history surfacing)
 - security risk (political violence and retaliatory action)
 - continuity risk (if trust collapses, production collapses)
+- expansion risk (a new colony ship entering the local power balance)
 
 Any faction that controls the narrative can claim to protect the colony.

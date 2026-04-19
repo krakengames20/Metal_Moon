@@ -23,7 +23,7 @@
 
 - Dust-camouflage cloak (TrailBlazer style, adapted)
 - Modified Deployed Admin armor (insignia removed)
-- Worn crossbow (stolen Miner equipmentâ€”modified for long-range)
+- Worn crossbow (stolen Miner equipment, modified for long-range)
 - Multiple pouches containing manifesto copies and evidence fragments
 - Emergency breather (cracked but functional)
 
@@ -42,4 +42,5 @@
 ## Color Accent for Artwork
 
 **Dried Blood Red and Rust Orange**
+
 

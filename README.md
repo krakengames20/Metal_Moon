@@ -13,6 +13,8 @@ Core truths:
 - Children of leaver-linked families were forced into cryostasis and renamed by pod IDs.
 - Liliane FoxKilo comes from pod ID FK382.
 - Alastair discovered parts of this buried truth and attempted the assassination.
+- A legacy-family network called the Knights of Rhodes (KOR) is a key ongoing threat.
+- A newly arrived colony ship adds active inter-colony tension.
 
 ## Start Here
 
@@ -24,13 +26,14 @@ Use these files as source-of-truth references:
 - `story/04_foundational_event.md`
 - `story/05_opening_scene.md`
 - `story/06_opening_quest.md`
+- `story/07_writer_todo.md`
 - `story/corporate_background.md`
 - `story/colony_timeline.md`
 
 ## Campaign Frame
 
 The story begins when Governor Liliane FoxKilo is shot during a public address.
-The hunt for Alastair becomes a deeper investigation into who controlled colony history and why.
+The hunt for Alastair becomes a deeper investigation into who controlled colony history, who still controls classified truth, and why.
 
 ## Themes
 
@@ -49,4 +52,3 @@ The hunt for Alastair becomes a deeper investigation into who controlled colony 
 ## License
 
 Campaign setting and narrative content: all rights reserved.
-

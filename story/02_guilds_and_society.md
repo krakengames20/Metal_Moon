@@ -18,6 +18,18 @@ A visible social line runs through the colony: citizens named from cryo pod IDs 
 These names came from a historical erasure policy after founder conflict.
 Public discussion of that history is socially and politically sensitive.
 
+## Power Access and Social Ceiling
+
+A small number of senior admins gain classified archive access as they rise through command tiers.
+
+Pod-named citizens remain underrepresented in top offices. Liliane's rise is notable because it is unusual, not because the structural bias was solved.
+
+## Shadow Networks
+
+Rumor and partial evidence point to a legacy-family influence bloc often called the **Knights of Rhodes (KOR)**.
+
+The working suspicion is that this network steers candidate pipelines, archive access, and key appointments while preserving plausible deniability.
+
 ## Everyday Culture
 
 Life is practical, compressed, and high risk.

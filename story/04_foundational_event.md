@@ -10,4 +10,8 @@ After the split and resource shortfall, families tied to the leaver bloc were fo
 
 Original family names were removed from official records. Children were renamed from pod identifiers. Liliane's pod ID was FK382, and her colony name became FoxKilo.
 
-These events were obscured and normalized over generations. Alastair uncovered parts of this history and became radicalized by what he found.
+These events were obscured and normalized over generations.
+
+Current testimony suggests part of the remainer power structure persisted as a legacy-family network now referred to as the Knights of Rhodes (KOR).
+
+Alastair uncovered parts of this history and became radicalized by what he saw as ongoing, active concealment.
