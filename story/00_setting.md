@@ -36,20 +36,13 @@ People survive through guilds, contracts, and ration systems. Reputation can pro
 
 ## Buried Mystery
 
-The public history says the colony survived because loyal founders made hard but necessary choices.
+Public history records the Purge as a painful but legitimate act of justice during the founding crisis. Hidden evidence suggests the condemned families were innocent and the charges were manufactured. See 04_foundational_event.md for full detail.
 
-Hidden evidence suggests the official story was rewritten.
-
-The central mystery of the campaign is not just who attacked the governor. It is who wrote colony history, who benefited from it, and who paid the real cost.
+The central mystery of the campaign is not just who attacked the governor. It is who fabricated the treason, who has maintained the lie across generations, and who paid the real cost.
 
 ## Current Pressure Stack
 
-The conflict is no longer only historical.
-
-- A small high-clearance admin tier still controls restricted founder-era records
-- Alastair's attack was partly driven by rage at ongoing secrecy, not only past crimes
-- The legacy-family network called the **Knights of Rhodes (KOR)** is suspected of influencing political outcomes
-- A newly arrived colony ship adds external tension, contract competition, and resource pressure
+The conflict is no longer only historical. Active concealment by a legacy power network (KOR), a political assassination, and the arrival of a new colony ship converge in the present day. See colony_timeline.md for chronology and 04_foundational_event.md for the underlying secret.
 
 ## Biome Unknowns
 

@@ -6,4 +6,4 @@ Conditions include abrasive metal dust, low-visibility storms, acidic drizzle ev
 
 Despite the moon's breathable atmosphere, travel risk remains extreme because infrastructure is sparse, visibility is volatile, and emergency response windows are narrow.
 
-It is also a historical memory space where displaced families survived and where oral records endured outside archive systems.
+It is also a historical memory space. Purge-exiled families either perished here or survived long enough to form the TrailBlazer communities that now carry the counter-narrative.

@@ -1,18 +1,16 @@
-﻿# 3 - Legal Framework and Economy
+# 3 - Legal Framework and Economy
 
 ## Charter Law
 
-There is no neutral court culture in the modern-Earth sense.
-Law is charter law: policy enforcement driven by city governance and Deployed Admin authority.
+There is no neutral court culture in the modern-Earth sense. Law is charter law: policy enforcement driven by city governance and Deployed Admin authority.
 
 Interpretation is political. Record access is controlled.
 
-## Corporate Hazard Model
+## Risk and Liability
 
-TerraLuna is run as a commercial hazard environment.
+TerraLuna is run as a commercial hazard environment. Most workers sign liability waivers and risk discharge agreements before dangerous assignments.
 
-Most workers sign liability waivers and risk discharge agreements before dangerous assignments.
-At the governance level, fatalities are treated as acceptable operational loss unless incidents scale up enough to threaten production continuity.
+At the governance level, fatalities are treated as acceptable operational loss unless incidents scale up enough to threaten production continuity. Individuals absorb most day-to-day survival risk. Management intervention scales with operational disruption, not individual harm. Compensation frameworks exist but are narrow and hard to claim.
 
 This is why extreme conditions can persist without systemic reform.
 
@@ -23,19 +21,8 @@ The economy is metal-first.
 - ration systems control water, air processing, and power
 - transport windows and refinery uptime matter more than civic comfort
 
-## Information as Infrastructure
-
-Archive access, incident reports, and historical records are economic assets.
-Who controls records controls legal narrative, compensation outcomes, and political legitimacy.
-
 ## Classified Governance Layer
 
-A narrow tier of senior admins can access restricted founder-era records.
+A narrow tier of senior admins can access restricted founder-era records. This creates a legal asymmetry: decision-makers can act on information the public cannot review, while claiming charter compliance.
 
-This creates a legal asymmetry: decision-makers can act on information the public cannot review, while claiming charter compliance.
-
-## Shadow Governance Risk
-
-The suspected Knights of Rhodes (KOR) network may be exploiting this classified layer.
-
-If true, election outcomes and legal enforcement can be shaped indirectly without visible charter violations.
+The Knights of Rhodes (KOR) network exploits this classified layer to maintain control over founder-era records and shape governance outcomes without visible charter violations. See 04_foundational_event.md for the origin and scope of that control.

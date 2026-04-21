@@ -6,4 +6,4 @@ He is responsible for public-order enforcement after the assassination attempt a
 
 Kess carries a corporate surname and is not pod-named. That background gives him institutional trust but also exposes him to pressure from entrenched family interests.
 
-He begins from official archive history, but he can shift position when evidence is credible and operationally verified. He may have carried out irregular orders from legacy-family clients without understanding their full political purpose.
+He accepts the official account of the Purge at face value but can shift position when evidence is credible and operationally verified. He may have carried out irregular orders from KOR-affiliated clients without understanding their full political purpose.

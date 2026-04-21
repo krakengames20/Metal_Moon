@@ -9,11 +9,11 @@ This repository now follows the updated canon from tel4ti's story discussion.
 Core truths:
 - TerraLuna is a commercial extraction mission run for profit.
 - Colonies function like corporate city-states.
-- Official founder history was rewritten by the remainers.
-- Children of leaver-linked families were forced into cryostasis and renamed by pod IDs.
-- Liliane FoxKilo comes from pod ID FK382.
-- Alastair discovered parts of this buried truth and attempted the assassination.
-- A legacy-family network called the Knights of Rhodes (KOR) is a key ongoing threat.
+- During the founding crisis, ~5% of families were framed for treason and exiled. Their children were seized, placed in cryostasis, and renamed by pod IDs as Pupils of New-Rhode.
+- The treason was fabricated. The Purge was a power consolidation by the faction that became the Knights of Rhodes (KOR).
+- Liliane FoxKilo (pod lineage FK382) is governor of New-Rhode and unknowingly perpetuates the false narrative.
+- Alastair discovered evidence of the fabrication and attacked Liliane — possibly as a ruse to lure witnesses outside KOR's reach.
+- KOR maintains the coverup across generations through restricted archive control.
 - A newly arrived colony ship adds active inter-colony tension.
 
 ## Start Here
@@ -37,10 +37,10 @@ The hunt for Alastair becomes a deeper investigation into who controlled colony 
 
 ## Themes
 
-- Truth vs continuity
-- Historical erasure
+- Truth vs stability
+- Fabricated justice and inherited guilt
 - Profit-driven governance under extreme risk
-- Identity after forced archival renaming
+- Identity built on a lie
 
 ## Project Contents
 

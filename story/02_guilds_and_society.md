@@ -1,4 +1,4 @@
-﻿# 2 - Society, Guilds, and Social Lines
+# 2 - Society, Guilds, and Social Lines
 
 ## Guild Function
 
@@ -11,24 +11,21 @@ Core guild lanes in New-Rhode:
 - Deployed Admins: enforcement, incident response, field investigation
 - TrailBlazers (informal): desert experts outside formal city governance
 
-## Pod-Named Citizens
+## Pod-Named Citizens (Pupils of New-Rhode)
 
-A visible social line runs through the colony: citizens named from cryo pod IDs (for example, FoxKilo).
+A visible social line runs through the colony: citizens whose names derive from cryo pod identifiers rather than family lineage. FoxKilo, BravoSierra-adjacent pod lines, LemurDelta — these names mark their bearers as descendants of families condemned during the Purge.
 
-These names came from a historical erasure policy after founder conflict.
-Public discussion of that history is socially and politically sensitive.
+The official narrative frames their status as evidence of institutional mercy. Pod-named citizens carry social stigma not because the system failed them, but because the stigma is the intended function of the naming convention. See 04_foundational_event.md for full detail.
 
 ## Power Access and Social Ceiling
 
 A small number of senior admins gain classified archive access as they rise through command tiers.
 
-Pod-named citizens remain underrepresented in top offices. Liliane's rise is notable because it is unusual, not because the structural bias was solved.
+Pod-named citizens remain underrepresented in top offices. Liliane FoxKilo's rise to governor is notable because it is unusual, not because the structural bias was resolved.
 
 ## Shadow Networks
 
-Rumor and partial evidence point to a legacy-group of administrators bloc that is called KOR. It will be then found to mean the **Knights of Rhodes (KOR)**. Which is nothing but the group that decided FOR the lottery to criogenize the children.
-
-The working suspicion is that this network steers policy still and also vows to keep the events of the lottery quiet, presumable to maintain the peace and fragile equilibrium and balance of the colony. In the past, they archived access, hid evidence, and made key appointments while preserving plausible deniability.
+Rumor and partial evidence point to a legacy administrator bloc referred to as KOR, later revealed as the **Knights of Rhodes**. KOR originated in the founding crisis and maintains influence through restricted archive control, managed appointments, and intermediary policy shaping. See 04_foundational_event.md and corporate_background.md for its origin and methods.
 
 ## Everyday Culture
 

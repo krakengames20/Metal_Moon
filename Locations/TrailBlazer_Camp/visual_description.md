@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hive-like settlement carved into canyon walls. Home to the TrailBlazer faction - nomadic survivors who have claimed the harsh desert regions.
+Hive-like settlement carved into canyon walls. Home to TrailBlazer communities — desert survivors who established permanent footholds in the harsh outer regions.
 
 ## Visual Elements
 

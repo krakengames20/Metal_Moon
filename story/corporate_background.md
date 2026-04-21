@@ -1,4 +1,4 @@
-﻿# Corporate Background
+# Corporate Background
 
 ## Why TerraLuna Was Colonized
 
@@ -18,19 +18,9 @@ Corporate power runs through a layered structure:
 
 The language is civic. The incentives are commercial.
 
-## Risk and Liability Model
-
-Worker contracts include broad hazard acceptance and discharge clauses.
-
-In practice:
-- individuals absorb most day-to-day survival risk
-- management intervention scales with operational disruption, not individual harm
-- compensation frameworks exist but are narrow and hard to claim
-
 ## Why Rusties Did Not Trigger Full Quarantine
 
-From a pure safety perspective, TerraLuna could justify quarantine logic.
-From a corporate perspective, full quarantine would halt output.
+From a pure safety perspective, TerraLuna could justify quarantine logic. From a corporate perspective, full quarantine would halt output.
 
 Leadership rationale has historically been:
 - mission is commercial and voluntary by contract
@@ -39,27 +29,10 @@ Leadership rationale has historically been:
 
 ## Information Control
 
-Corporate-style administration treats records as strategic assets.
-Archive control shapes:
-- legal accountability
-- ownership claims
-- labor discipline
-- public memory
+Corporate-style administration treats records as strategic assets. Archive control shapes legal accountability, ownership claims, labor discipline, and public memory.
 
-This made historical rewriting both possible and durable.
+This infrastructure enabled the Purge coverup to hold across generations. See 04_foundational_event.md for specific mechanisms and 03_legal_and_economy.md for the classified access structure.
 
 ## Legacy Family Continuity
 
-A suspected influence network, the **Knights of Rhodes (KOR)**, appears to connect founding-family interests to present-day governance outcomes.
-
-Common claims include election steering, selective archive access, and policy shaping through intermediaries rather than direct command.
-
-## Current Strategic Friction
-
-The present crisis combines four pressures:
-- legitimacy risk (buried founder history surfacing)
-- security risk (political violence and retaliatory action)
-- continuity risk (if trust collapses, production collapses)
-- expansion risk (a new colony ship entering the local power balance)
-
-Any faction that controls the narrative can claim to protect the colony.
+The **Knights of Rhodes (KOR)** traces its origin to the founding crisis. In the present day, the network connects founding-family interests to governance outcomes through election steering, selective archive access, and policy shaping through intermediaries. See 04_foundational_event.md for KOR's origin and founding ethos.
