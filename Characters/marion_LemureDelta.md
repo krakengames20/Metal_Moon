@@ -1,0 +1,9 @@
+## Marion LemureDelta
+
+Engineer, alphanumeric, practical, adaptable. a short but sturdy woman emerges; wearing the overalls of a master engineer and smelling of whiskey.
+
+Marion was 11 years old when she was awakened. Although her memory was wiped, she remembered a lot of practical skills, and engineered several escapes from the corporate orphanage in the six months she was there.  Her final escape brought her to the door of Laurance Hollander, a senior engineer who was more interested in the engineering skills she displayed than the trouble she caused.  His family adopted her and she started working in his workshop as his assistant - and making her own things in her spare time.  She never really recovered the social skills she lost in cryo, but became an excellent engineer, aceing the exams one the restrictions where relaxed and she was able to take them.  It wasn’t long before she was venturing outside of the colony whenever she could, sometimes accompanying miners out to their mines and occasionally Garvin on longer trips.  She acquired an old Mule, Barnabus, which she has constantly been tinkering with and adapting over the years.  She's single, but not adverse to a tumble in the sand and, frankly, prefers machines over people. Laurance is now retired, having a senior roll in the engineering guild. His wife, Lisa, died some years ago.
+
+Marion brings along her own Mule (Barnabus) - engineering rig, experimental and fabrication set up. On board fission reactor, solar panels for battery top up and shade.  Other abilities as needed.
+
+Marion is sort of friendly with Garvin, but knows he's holding things back from her.  Shell travel, and sleep with him, but doesn’t quite trust him. She doesn’t know about the Trail Blazers or the KOR. (discussion with Tanya while crossing the desert)
