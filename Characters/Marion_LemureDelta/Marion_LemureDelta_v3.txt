@@ -1,0 +1,4 @@
+mode: shot
+---
+PROMPT:
+Match the visual style, texture, and rendering technique of the style reference image(s). Keep the same painterly quality, color grading, and level of detail. Match the visual style, texture, and rendering technique of the style reference image. Keep the same painterly sgraffito quality, dark textured background with splatter effects. Portrait of Marion LemureDelta, a short but sturdy woman in her mid-30s with olive-tanned skin, dark brown hair chopped short, sharp dark brown eyes. Arms crossed, leaning against a machine, welding goggles pushed up on forehead, grease-smudged overalls, heavy tool belt. Confident defiant stance, slight smirk, looking slightly off-camera. Dark textured sgraffito background. Dramatic sgraffito illustration, hand-painted digital art.

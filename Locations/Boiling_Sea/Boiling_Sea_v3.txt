@@ -1,0 +1,4 @@
+mode: shot
+---
+PROMPT:
+Match the visual style, texture, and rendering technique of the style reference image(s). Keep the same painterly quality, color grading, and level of detail. Dramatic sgraffito art style. Sunset vista across a vast geothermal fission basin on a metallic moon. Thick steam columns rising from the basin catch golden sunset light, creating pillars of warm orange glow. Silhouettes of four wheeled convoy vehicles on the ridge edge against the sky. Cold pale upper sky contrasting with heated orange-yellow basin below. Radiation shimmer visible as distortion bands in the air. Beautiful but deadly alien thermal wasteland. Panoramic establishing shot.

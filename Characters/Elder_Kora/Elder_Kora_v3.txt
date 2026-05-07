@@ -1,0 +1,4 @@
+mode: shot
+---
+PROMPT:
+Match the visual style, texture, and rendering technique of the style reference image(s). Keep the same painterly quality, color grading, and level of detail. Match the visual style, texture, and rendering technique of the style reference image. Keep the same painterly sgraffito quality, dark textured background with splatter effects. Full-body portrait of Elder Kora Dustborn, a woman in her 60s with weathered leathery skin, steel-gray hair in braids with metal beads, piercing dark eyes. She sits cross-legged wrapped in her layered dust cloaks, goggles on forehead, necklace of metal fragments, dust-tattoos covering her forearms. She stares directly at the viewer with an unreadable, intense gaze. A desert oracle. Dark textured sgraffito background. Dramatic sgraffito illustration, hand-painted digital art.

@@ -1,0 +1,4 @@
+mode: shot
+---
+PROMPT:
+Match the visual style, texture, and rendering technique of the style reference image(s). Keep the same painterly quality, color grading, and level of detail. Match the visual style, texture, and rendering technique of the style reference image. Keep the same painterly sgraffito quality, dark textured background with splatter effects. Upper body portrait of Elder Kora Dustborn, a woman in her 60s with deeply weathered leathery skin, steel-gray braided hair with metal beads woven through, piercing dark unblinking eyes. She holds a fragment of metal between her fingers, examining it. Layered dust cloaks, necklace of metal fragments, dust-tattoos visible on her forearms. Intense knowing expression, like someone reading a secret from the metal. Dark textured sgraffito background. Dramatic sgraffito illustration, hand-painted digital art.

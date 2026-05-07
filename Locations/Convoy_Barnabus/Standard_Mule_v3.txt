@@ -1,0 +1,4 @@
+mode: shot
+---
+PROMPT:
+Match the visual style, texture, and rendering technique of the style reference image(s). Keep the same painterly quality, color grading, and level of detail. Match the visual style, texture, and rendering technique of the style reference images. Keep the same painterly sgraffito quality. Interior view of a standard mining convoy mule rover cabin. Two seats in the front, cramped utilitarian cockpit. A tall fiberglass windshield mask provides the forward view of metallic desert terrain. Dashboard with a mix of analog gauges and digital navigation screens. CB radio mounted to the dash. Dust coating every surface. Cargo crates visible behind the seats. Harsh cold light filtering through the windshield. Spartan, functional, no comfort. Dramatic sgraffito illustration, hand-painted digital art, sci-fi concept art.

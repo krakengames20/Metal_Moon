@@ -1,0 +1,4 @@
+mode: shot
+---
+PROMPT:
+Match the visual style, texture, and rendering technique of the style reference image(s). Keep the same painterly quality, color grading, and level of detail. Dramatic sgraffito art style. Looking down from ridge edge into a vast geothermal fission basin on a metallic moon. Vertiginous drop. Yellow sulfur mineral crust far below, steam rising toward the viewer. A single set of boot prints descending the steep slope without hesitation, disappearing into the steam below. Fission orange glow visible through the thin crust. Dread and awe. The sublime and the lethal. High-angle downward perspective, dramatic depth.

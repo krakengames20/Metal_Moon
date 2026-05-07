@@ -1,0 +1,4 @@
+mode: shot
+---
+PROMPT:
+Match the visual style, texture, and rendering technique of the style reference image(s). Keep the same painterly quality, color grading, and level of detail. Dramatic sgraffito art style. Close-up view of yellow mineral crust on geothermal basin floor. Cracked sulfur deposits, thin unstable ground over superheated rock. Steam venting upward through fractures in the crust. Footprints pressed into the brittle yellow surface descending downhill. Warm vapor rising, fission orange glow beneath the crust visible through cracks. Metallic moon alien terrain. Detail shot, ground-level perspective.

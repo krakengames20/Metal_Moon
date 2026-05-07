@@ -1,0 +1,4 @@
+mode: shot
+---
+PROMPT:
+Match the visual style, texture, and rendering technique of the style reference image(s). Keep the same painterly quality, color grading, and level of detail. Dramatic sgraffito art style. Vast shallow geothermal basin on a metallic moon, viewed from a rocky ridge at sunset. Yellow mineral crust stretches impossibly wide below, steam columns rising from fissures. Heat shimmer distorts the distant horizon. Golden-orange glow from superheated ground mixes with cold pale sky above. A small mechanized convoy parked at the ridge edge in silhouette. Sulfur yellow, steam white, fission orange palette. Cinematic wide shot, epic desolate alien landscape.

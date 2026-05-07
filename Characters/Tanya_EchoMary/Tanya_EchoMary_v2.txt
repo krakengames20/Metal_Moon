@@ -1,0 +1,4 @@
+mode: shot
+---
+PROMPT:
+Match the visual style, texture, and rendering technique of the style reference image(s). Keep the same painterly quality, color grading, and level of detail. Match the visual style, texture, and rendering technique of the style reference image. Keep the same painterly sgraffito quality, dark textured background with splatter effects. Close-up portrait of Tanya EchoMary, a slender athletic woman age 39 with light brown skin, red-brown hair in a tight braid, hazel observant eyes. She kneels on the ground, examining something in the dust, one hand touching the ground, looking up at the viewer with sharp analytical eyes. Dark field-grade security uniform, dust scarf loose around neck, sergeant insignia visible. Investigator at work. Dark textured sgraffito background. Dramatic sgraffito illustration, hand-painted digital art.

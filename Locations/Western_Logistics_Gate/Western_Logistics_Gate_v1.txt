@@ -1,0 +1,4 @@
+mode: shot
+---
+PROMPT:
+Match the visual style, texture, and rendering technique of the style reference image(s). Keep the same painterly quality, color grading, and level of detail. Dramatic sgraffito art style. Massive industrial blast gates on a metallic moon colony. Heavy grinding steel doors partially open, thick concrete foundation walls on either side. Drone surveillance towers flanking the corridor. Fine metallic silver dust skating across the concrete decking. Sealed acid-runoff channels visible beneath steel grating. Cold sulfur dawn light. Beyond the gate: endless grey metallic desert plains stretching to the horizon. Industrial steel and sulfur yellow palette. Frontal approach view, imposing scale.

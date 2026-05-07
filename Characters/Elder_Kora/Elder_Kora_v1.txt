@@ -1,0 +1,4 @@
+mode: shot
+---
+PROMPT:
+Match the visual style, texture, and rendering technique of the style reference image(s). Keep the same painterly quality, color grading, and level of detail. Match the visual style, texture, and rendering technique of the style reference image. Keep the same painterly sgraffito quality, dark textured background with splatter effects. Full-body portrait of Elder Kora Dustborn, a woman in her 60s with weathered leathery skin from desert exposure, steel-gray hair in braids with metal beads, piercing dark unblinking eyes. She wears layered dust cloaks, reinforced desert boots, goggles pushed up on forehead, a necklace of metal fragments. Dust-tattoos visible on her arms, a TrailBlazer tradition. Wise guarded expression, unreadable but intense. Standing tall despite her age. Dark textured sgraffito background. Dramatic sgraffito illustration, hand-painted digital art.
